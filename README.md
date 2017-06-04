@@ -18,3 +18,5 @@ Replace the code in the following line of the python script with the file direct
 ```
 file = pd.ExcelFile('Insert directory of Excel file containing list of email addresses you plan to send') 
 ```
+# License
+See the LICENSE file for license rights and limitations (MIT).
