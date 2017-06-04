@@ -1,5 +1,5 @@
 # python-outlook-mail-merge
-This project allows you send mass emails with rich HTML formatting through Microsoft Outlook via an Excel workbook.
+This project allows you send mass emails with rich HTML formatting through Microsoft Outlook via an Excel workbook and Python.
 
 # Getting Started
 You will need to install the libaries pypiwin32 (win32com.client) and pandas libraries to get this project running on your local machine.
